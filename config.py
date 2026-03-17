@@ -1,6 +1,6 @@
 # config.py
 
-API_KEY = "AIzaSyDTJ0iNCQwGCXPGz4WYwfUeDPsryaEpJqQ" 
+
 
 VIDEO_SOURCE = "https://lon.rtsp.me/lC68ljoEjyFJzHkGZmXKNw/1773588953/hls/5EaFsS4B.m3u8?ip=86.126.140.175" 
 THRESHOLD_ANOMALIE = 0.5 # Procentul de alerta in care intra ai ul
