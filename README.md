@@ -1,4 +1,4 @@
-# VisionSentinel 🚦👁️
+# VisionSentinel 
 
 **Autonomous Edge AI Traffic Anomaly Detection**
 
