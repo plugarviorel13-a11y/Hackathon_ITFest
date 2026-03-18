@@ -29,7 +29,7 @@ To ensure the system runs smoothly on edge devices without overheating the CPU, 
 * **Frontend:** HTML5, Custom CSS Variables (Dark/Cyberpunk UI), Vanilla JavaScript (Async Polling)
 * **Mapping & Analytics:** Leaflet.js (Live GPS mapping), Chart.js (Real-time anomaly scoring)
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 **1. Install Local AI (Ollama)**
 You must have Ollama installed on your system to run the local vision model.
